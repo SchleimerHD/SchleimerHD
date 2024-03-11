@@ -1,6 +1,7 @@
-# 💫 About Me:👋 Hi, I’m @SchleimerHD
-- 👀 I’m interested in Java UnrealEngine Shellscripts and Linux
-- 🌱 I’m currently learning basic Algorithms
+# 💫 About Me:👋 
+Hi, I’m @SchleimerHD
+👀 I’m interested in Java UnrealEngine Shellscripts and Linux
+🌱 I’m currently learning basic Algorithms
 
 ## 🌐 Socials:
 |Service|Link|
