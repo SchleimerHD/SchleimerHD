@@ -6,9 +6,8 @@
 
 |Service|Link|
 |-----|------|
-|Email|[schl3imerhd@gmail.com](mailto://schl3imerhd@gmail.com)
-
-[X or Twitter](https://twitter.com/schleimerhd)
+|Email|[schl3imerhd@gmail.com](mailto://schl3imerhd@gmail.com|
+|X or Twitter|[@schleimerhd](https://twitter.com/schleimerhd)|
 <!---
 SchleimerYT/SchleimerYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
