@@ -2,8 +2,11 @@
 - 👀 I’m interested in Java UnrealEngine Shellscripts and Linux
 - 🌱 I’m currently learning basic Algorithms
 - 📫 You can Reach out to me via my Private E-Mail or my Socials Following
-  
-[Email](mailto://schl3imerhd@gmail.com)
+
+
+|Service|Link|
+|-----|------|
+|Email|[schl3imerhd@gmail.com](mailto://schl3imerhd@gmail.com)
 
 [X or Twitter](https://twitter.com/schleimerhd)
 <!---
