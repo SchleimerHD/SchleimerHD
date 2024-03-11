@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SchleimerYT
+-# 💫 About Me:👋 Hi, I’m @SchleimerHD
 - 👀 I’m interested in Java UnrealEngine Shellscripts and Linux
 - 🌱 I’m currently learning basic Algorithms
 
@@ -11,8 +11,7 @@
 SchleimerYT/SchleimerYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# 💫 About Me:
-Hello there 👋<br>I'm Danny (20yo) from Germany
+
 
 <!--
 
