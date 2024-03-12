@@ -1,8 +1,11 @@
 # 💫 About Me:👋 
 Hi, I’m [@SchleimerHD](https://github.com/schleimerhd)
+
 👀 I’m interested in Java UnrealEngine Shellscripts and Linux
-i watch Anime and Cartoons like a lot
-🌱 I’m currently learning basic Algorithms
+
+Privatly i watch a lot of Anime and Cartoons
+
+I’m currently learning basic Algorithms like Programming a Stack or self developing different Sorting algorithms
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/zp2NQEj) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/schleimerhd) 
